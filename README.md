@@ -1,2 +1,2 @@
 # ziPGM
-Sufficient dimension reduction for zero-inflated graphical models
+## Sufficient Dimension Reduction for zero-inflated Pairwise Graphical Model
