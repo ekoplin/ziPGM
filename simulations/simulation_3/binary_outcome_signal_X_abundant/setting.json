@@ -1,0 +1,1 @@
+{"nTrain": [1000, 500, 200], "nVal": 1000, "nTest": 1000, "yDim": 1, "yType": "binary", "signal":"X", "unscaledNoise": 1e-06}

@@ -1,0 +1,1 @@
+{"model": "HTP", "Tstar": 100, "TXrefPoisson": true, "TXrefMean": 100, "p": 100, "nTrain": [1000, 500, 200], "nVal": 1000, "nTest": 1000, "pReg": [0, 15, 0], "SH": ["blockdiag", 15], "sH": ["indep", null], "AH": ["indep", null], "interStrength": 0.005, "GammaStrength": 0.085, "PsiStrength": 0.31, "yDim": 1, "yType": "binary", "unscaledNoise": 0.001}

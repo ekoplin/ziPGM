@@ -1,0 +1,1 @@
+{"batchSizeJacobian": 1000, "batchSizeHessian": 100, "damping": 1e-12, "mineig":1e-12, "pseudoFisher": true}

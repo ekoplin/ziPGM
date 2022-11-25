@@ -1,0 +1,1 @@
+{"model": "HN", "Tstar": 1000, "TXrefPoisson": true, "TXrefMean": 100, "p": 100, "nTrain": [1000, 500, 200], "nVal": 1000, "nTest": 1000, "pReg": [5, 5, 5], "SH": ["blockdiag", 5], "sH": ["random", 15], "AH": ["random", 15], "interStrength": 0.001, "GammaStrength": 0.035, "PsiStrength": 0.065, "yDim": 1, "yType": "binary", "unscaledNoise": 1e-06}

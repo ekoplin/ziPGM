@@ -1,0 +1,1 @@
+{"precompute_step": false, "alpha": 0.001, "beta": 0.1, "max_rejects": 10, "max_iter": 500, "err_relP": 2e-12, "err_relL": 2e-15, "update_hessian_each": 100, "update_hessian_eps": 0, "subproblemSDMM_kwars": {"step": 1e-4, "max_iter": 100}}
